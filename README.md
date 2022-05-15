@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Software Developer with expertise in ReactJs,Android/Kotlin,Python.
 
 <!--
 **Wilson-Ochieng/Wilson-Ochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
